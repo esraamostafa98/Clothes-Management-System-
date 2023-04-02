@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "zb2TaWWGk9d4mLxLPi9DSRl7QsuaCRrLf36plI7vmNsDvzTWz9ZiUVyHUuMFVuvdKDUKOL48435U7NaheT5Csw==",
+  "dgSpecHash": "quiqhJh4J9nOtbIjbc+jQlSRqWT8n9+mbM3CIYPjZY6ls2r+OWaXHEr5D//9pDSsBj4jTdOmSRFNC1d/eC4kPA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\engfa\\Projects\\WebApplication6\\WebApplication6.csproj",
+  "projectFilePath": "C:\\Users\\engfa\\Projects\\Clothes Management\\Clothes-Management-System-\\Backend\\WebApplication6.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\engfa\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\engfa\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.0\\automapper.extensions.microsoft.dependencyinjection.12.0.0.nupkg.sha512",

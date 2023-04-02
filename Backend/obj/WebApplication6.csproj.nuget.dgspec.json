@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\engfa\\Projects\\WebApplication6\\WebApplication6.csproj": {}
+    "C:\\Users\\engfa\\Projects\\Clothes Management\\Clothes-Management-System-\\Backend\\WebApplication6.csproj": {}
   },
   "projects": {
-    "C:\\Users\\engfa\\Projects\\WebApplication6\\WebApplication6.csproj": {
+    "C:\\Users\\engfa\\Projects\\Clothes Management\\Clothes-Management-System-\\Backend\\WebApplication6.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\engfa\\Projects\\WebApplication6\\WebApplication6.csproj",
+        "projectUniqueName": "C:\\Users\\engfa\\Projects\\Clothes Management\\Clothes-Management-System-\\Backend\\WebApplication6.csproj",
         "projectName": "WebApplication6",
-        "projectPath": "C:\\Users\\engfa\\Projects\\WebApplication6\\WebApplication6.csproj",
+        "projectPath": "C:\\Users\\engfa\\Projects\\Clothes Management\\Clothes-Management-System-\\Backend\\WebApplication6.csproj",
         "packagesPath": "C:\\Users\\engfa\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\engfa\\Projects\\WebApplication6\\obj\\",
+        "outputPath": "C:\\Users\\engfa\\Projects\\Clothes Management\\Clothes-Management-System-\\Backend\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\engfa\\AppData\\Roaming\\NuGet\\NuGet.Config",

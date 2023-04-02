@@ -12,8 +12,8 @@ namespace WebApplication6.BL.helper
             //    SmtpClient smtp = new SmtpClient("smtp.gmail.com", 587);
             //    smtp.EnableSsl = true;
             //    smtp.UseDefaultCredentials = false;
-            //    smtp.Credentials = new NetworkCredential("esraamostafa9734@gmail.com", "esoesoeso123@");
-            //    smtp.Send("esraamostafa9734@gmail.com", "sabahmohamed9734@gmail.com", Title,Message);
+            //    smtp.Credentials = new NetworkCredential("eghtyu@gmail.com", "nhgf");
+            //    smtp.Send("eghtyu@gmail.com", "sabahmjug@gmail.com", Title,Message);
 
             //    return "Mail Successfly sent";
 
